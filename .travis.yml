@@ -1,7 +1,10 @@
 language: node_js
 node_js:
   - "10"
+dist: trusty
 cache:
+ apt: true
+ yarn: true
  directories:
    - node_modules
 branches:
@@ -9,10 +12,11 @@ branches:
     - gitpages
 
 before_install:
+  - export TZ='Asia/Tokyo'
   - npm install hexo-cli -g
 
 install:
-  - npm install
+  - yarn
   - npm install hexo-deployer-git save
 
 script:
