@@ -14,7 +14,7 @@ timezone: 'Asia/Tokyo'
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
 url: http://kuritan.github.io
-root: /matilde-lab
+root: /
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -101,9 +101,20 @@ ignore:
 theme: hexo-theme-aircv
 since: 2020
 
+responsive_images:
+  priority: 1
+  pattern: '**/*.+(png|jpg|jpeg)'
+  sizes:
+    small:
+      width: 200
+    thumb:
+      width: 400
+    medium:
+      width: 800
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://gh_token@github.com/kuritan/matilde-lab.github.io.git
+  repo: https://gh_token@github.com/kuritan/matilde-lab.git
   branch: main

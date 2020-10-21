@@ -1,0 +1,34 @@
+title: Experience
+subtitle: Batman would be jealous.
+
+items:
+  - title: AWS/GCP
+    content: "Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor"
+    href: "#"
+    button: "Tell me more"
+    icon: "color-white icon-screen-tablet"
+    featured: true
+  - title: Linux
+    content: "Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor"
+    href: "#"
+    button: "Tell me more"
+    icon: "icon-chemistry"
+    featured: false
+  - title: Enginsh
+    content: "Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor"
+    href: "#"
+    button: "Tell me more"
+    icon: "icon-badge"
+    featured: false
+  - title: 日本語
+    content: "Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor"
+    href: "#"
+    button: "Tell me more"
+    icon: "icon-doc"
+    featured: false
+  - title: 中文普通话
+    content: "Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor"
+    href: "#"
+    button: "Tell me more"
+    icon: "icon-home"
+    featured: false
