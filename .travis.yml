@@ -11,7 +11,7 @@ branches:
 
 before_install:
   - export TZ='Asia/Tokyo'
-  - npm install -g hexo hexo-cli@4.2 hexo-renderer-scss hexo-filter-responsive-images imageinfo js-yaml
+  - npm install -g hexo@4.2 hexo-cli hexo-renderer-scss hexo-filter-responsive-images imageinfo js-yaml
 
 install:
   - npm install
