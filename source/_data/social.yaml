@@ -1,27 +1,27 @@
 - text: Facebook
-  href: "#"
+  href: "https://www.facebook.com/yujia.zhai.50951"
   #icon: "fab fa-facebook"
   icon: icon-social-facebook
 
-- text: Instagram
-  href: "#"
+#- text: Instagram
+#  href: "#"
 #  #icon: "fab fa-instagram"
-  icon: "icon-social-instagram"
+#  icon: "icon-social-instagram"
 
 - text: Twitter
-  href: "#"
+  href: "https://twitter.com/lizi1032"
   #icon: "fab fa-twitter"
   icon: "icon-social-twitter"
 
 - text: Linkedin
-  href: "#"
+  href: "https://www.linkedin.com/in/yujia-zhai-kuritan"
   #icon: "fab fa-linkedin-in"
   icon: "icon-social-linkedin"
 
-- text: Dribbble
-  href: "#"
-  #icon: "fab fa-dribbble-in"
-  icon: "icon-social-dribbble"
+#- text: Dribbble
+#  href: "#"
+#  #icon: "fab fa-dribbble-in"
+#  icon: "icon-social-dribbble"
 
 #- text: Behance
 #  href: "#"
