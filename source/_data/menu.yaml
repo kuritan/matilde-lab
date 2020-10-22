@@ -13,8 +13,8 @@
 - text: Contact
   href: "#contact"
 
-#- text: Blog
-#  href: "/blog"
+- text: Blog
+  href: "https://kuritan.github.io"
 
 #- text: Acceso
 #  href: "/login"
