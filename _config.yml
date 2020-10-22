@@ -13,8 +13,8 @@ timezone: 'Asia/Tokyo'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://kuritan.github.io/matilde-lab
-root: /matilde-lab/
+url: http://matilde-lab.github.io
+root: /
 permalink: :title/
 permalink_defaults:
 pretty_urls:
