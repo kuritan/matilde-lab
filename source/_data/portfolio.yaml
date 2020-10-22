@@ -28,7 +28,7 @@ items:
 
 #2
   - grid_class: "col-xs-12 col-sm-6 col-md-4 margin-b-4"
-    image: "img/397x400/monitoring.png"
+    image: "img/397x400/monitoring-icon.png"
     hide_text: "Hide"
     title: "Monitoring"
     subtitle: "0.0.0.0/0向けたセキュリティグループを排除"
