@@ -4,37 +4,37 @@ subtitle: Just one part.
 items:
   - title: AWS/GCP
     content: "パブリッククラウド使い手"
-    #href: "#"
-    #button: "Tell me more"
+    href: "https://kuritan.github.io/Portfolio/"
+    button: "Tell me more"
     icon: "color-white icon-screen-tablet"
     featured: true
   - title: Linux/Windows
-    content: "サーバー係、DevOpsおじさん"
-    #href: "#"
-    #button: "Tell me more"
+    content: "サーバー世話人、DevOpsおじさん"
+    href: "https://kuritan.github.io/Portfolio/"
+    button: "Tell me more"
     icon: "icon-chemistry"
     featured: false
   - title: Python/Ruby/Shell
     content: "いい感じに書けます"
-    #href: "#"
-    #button: "Tell me more"
+    href: "https://kuritan.github.io/Portfolio/"
+    button: "Tell me more"
     icon: "icon-docs"
     featured: false
   - title: Enginsh
     content: "雰囲気で使います"
-    #href: "#"
-    #button: "Tell me more"
+    href: "https://kuritan.github.io/Portfolio/"
+    button: "Tell me more"
     icon: "icon-badge"
     featured: false
   - title: 日本語
-    content: "何もわかってないw"
-    #href: "#"
-    #button: "Tell me more"
+    content: "ビジネス以上、ネイティブ未満"
+    href: "https://kuritan.github.io/Portfolio/"
+    button: "Tell me more"
     icon: "icon-doc"
     featured: false
-  - title: 中文普通话
-    content: "母语"
-    #href: "#"
-    #button: "Tell me more"
+  - title: 中国語
+    content: "ネイティブ北京語"
+    href: "https://kuritan.github.io/Portfolio/"
+    button: "Tell me more"
     icon: "icon-home"
     featured: false

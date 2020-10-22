@@ -1,3 +1,13 @@
+- text: Gihub
+  href: "https://kuritan.github.io/Portfolio/"
+  #icon: "fab fa-github"
+  icon: "icon-social-github"
+
+- text: Twitter
+  href: "https://twitter.com/lizi1032"
+  #icon: "fab fa-twitter"
+  icon: "icon-social-twitter"
+
 - text: Facebook
   href: "https://www.facebook.com/yujia.zhai.50951"
   #icon: "fab fa-facebook"
@@ -7,11 +17,6 @@
 #  href: "#"
 #  #icon: "fab fa-instagram"
 #  icon: "icon-social-instagram"
-
-- text: Twitter
-  href: "https://twitter.com/lizi1032"
-  #icon: "fab fa-twitter"
-  icon: "icon-social-twitter"
 
 - text: Linkedin
   href: "https://www.linkedin.com/in/yujia-zhai-kuritan"

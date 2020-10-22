@@ -1,8 +1,8 @@
 title: "Intro"
 subtitle: "What I am all about."
-description: "主にクラウド周りのインフラの世話をしております。
+description: "Site Reliability Engineerです。普段はクラウド周りのインフラの世話をしております。
 <br>モニターリング、便利ツール開発なども請け負います。
-<br>お気軽にご相談ください。"
+<br>個人業務委託でご契約させていただきますので、まずはお気軽にご相談ください。"
 
 skills:
   - name: AWS/GCP
