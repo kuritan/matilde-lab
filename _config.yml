@@ -5,11 +5,12 @@
 # Site
 title: Matilde-Lab
 subtitle: ''
-description: ''
-keywords:
+description: 'Freelance DevOps Engineer'
+keywords: 'freelance, IT infrastructure, public cloud, aws, gcp, terraform'
 author: Yujia Zhai
 language: jp
 timezone: 'Asia/Tokyo'
+favicon: img/favicon.ico
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
@@ -99,7 +100,6 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: hexo-theme-aircv
-since: 2020
 
 responsive_images:
   priority: 1
