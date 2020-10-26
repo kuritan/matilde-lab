@@ -9,7 +9,7 @@ items:
     icon: "color-white icon-screen-tablet"
     featured: true
   - title: Linux/Windows
-    content: "サーバー世話人、DevOpsおじさん"
+    content: "サーバー世話係、DevOpsおじさん"
     href: "https://kuritan.github.io/Portfolio/"
     button: "Tell me more"
     icon: "icon-chemistry"
