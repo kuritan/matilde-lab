@@ -6,13 +6,13 @@ items:
     content: "パブリッククラウド使い手"
     href: "https://kuritan.github.io/Portfolio/"
     button: "Tell me more"
-    icon: "color-white icon-screen-tablet"
+    icon: "icon-screen-tablet"
     featured: false
   - title: Linux/Windows
     content: "サーバー世話係、DevOpsおじさん"
     href: "https://kuritan.github.io/Portfolio/"
     button: "Tell me more"
-    icon: "icon-chemistry"
+    icon: "color-white icon-chemistry"
     featured: true
   - title: Python/Ruby/Shell
     content: "いい感じに書けます"
