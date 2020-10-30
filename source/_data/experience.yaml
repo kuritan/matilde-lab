@@ -7,13 +7,13 @@ items:
     href: "https://kuritan.github.io/Portfolio/"
     button: "Tell me more"
     icon: "color-white icon-screen-tablet"
-    featured: true
+    featured: false
   - title: Linux/Windows
     content: "サーバー世話係、DevOpsおじさん"
     href: "https://kuritan.github.io/Portfolio/"
     button: "Tell me more"
     icon: "icon-chemistry"
-    featured: false
+    featured: true
   - title: Python/Ruby/Shell
     content: "いい感じに書けます"
     href: "https://kuritan.github.io/Portfolio/"
