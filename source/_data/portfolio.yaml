@@ -12,7 +12,7 @@ items:
     <p>一回苦労したら、あとはラクラク</p>
     "
     cta: "Show me more"
-    href: "https://kuritan.github.io/Gitlab%E2%86%92AWS-ECS%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%BF%E3%81%AECI-CD%E3%83%91%E3%82%A4%E3%83%97%E3%83%A9%E3%82%A4%E3%83%B3/"
+    href: "https://kuritan.github.io/gitlab-ecs-ci-cd/"
     tags:
       - text: "SystemDesign, "
         href: "#"
@@ -77,29 +77,26 @@ items:
 
 #4
   - grid_class: "col-xs-12 col-sm-6 col-md-4 md-margin-b-4"
-    image: "img/397x300/resume.png"
+    image: "img/397x300/sli.png"
     hide_text: "Hide"
-    title: "Portfolio"
-    subtitle: "Infrastructure Architect &amp; DevOps Engineer"
-    description: "<p>某上場IT企業でSRE（SiteReliabilityEngineer）をやっております。オンプレミス・クラウド環境企画・構築・運用・監視</p>
-    <p>DevOps経験2年+、ユーザ系エンタープライズ企業情シス担当経験 3年+、Networkアプライアンスメーカーのプリセールス経験 1年+</p>
+    title: "SLI-calculator"
+    subtitle: "Catch web system's SLI with mackerel and newrelic."
+    description: "<p>Provide an easy way to catch your web system's SLI(Service Level Indicators) based on AWS Lamabda functions.</p>
     "
     cta: "Show me more"
-    href: "https://kuritan.github.io/Portfolio/"
+    href: "https://github.com/kuritan/sli-calculator"
     tags:
       - text: "DevOps, "
         href: "#"
-      - text: "Portfolio"
+      - text: "SRE"
         href: "#"
     parameters:
       - title: "ENV"
-        text: "AWS/GCP"
+        text: "AWS/IDCF"
       - title: "Coding"
-        text: "Shell/Python/Ruby/Terraform"
-      - title: "MiddleWave"
-        text: "Nginx/Mysql/Redis"
-      - title: "Virtualization"
-        text: "Docker/k8s/Openstack"
+        text: "Python/Terraform"
+      - title: "SRE Tool"
+        text: "SLI"
 
 
 #5

@@ -3,14 +3,15 @@ subtitle: "What I am all about."
 description: "本職はSite Reliability Engineerです。
 <br>普段はパブリッククラウド周りのインフラの世話をしております。
 <br>副業としてサーバー系のご相談やモニターリング、便利ツール開発などを請け負います。
-<br>個人業務委託でご契約させていただきますので、まずはお気軽にご相談ください。"
+<br>個人業務委託でご契約させていただきますので、まずはお気軽にご相談ください。
+<br>My Portfolio:  <a>https://kuritan.github.io/Portfolio</a> "
 
 skills:
   - name: AWS/GCP
     percentage: 80
   - name: Infrastructure as Code
     percentage: 90
-  - name: Python/Ruby/Shell
+  - name: Python/Ruby/Go/Shell
     percentage: 76
   - name: kubernetes
     percentage: 67
