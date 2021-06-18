@@ -32,8 +32,8 @@ items:
     button: "Tell me more"
     icon: "icon-doc"
     featured: false
-  - title: 中国語
-    content: "ネイティブ北京語"
+  - title: Mandarin
+    content: "ネイティブ"
     href: "https://kuritan.github.io/Portfolio/"
     button: "Tell me more"
     icon: "icon-home"
