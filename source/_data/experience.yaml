@@ -21,7 +21,7 @@ items:
     icon: "icon-docs"
     featured: false
   - title: Enginsh
-    content: "TOEIC 835,雰囲気で使います"
+    content: "TOEIC 835"
     href: "https://kuritan.github.io/Portfolio/"
     button: "Tell me more"
     icon: "icon-badge"
@@ -33,7 +33,7 @@ items:
     icon: "icon-doc"
     featured: false
   - title: Mandarin
-    content: "ネイティブ"
+    content: "Native"
     href: "https://kuritan.github.io/Portfolio/"
     button: "Tell me more"
     icon: "icon-home"
