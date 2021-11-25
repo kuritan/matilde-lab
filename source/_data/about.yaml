@@ -16,6 +16,6 @@ skills:
   - name: Infrastructure as Code
     percentage: 90
   - name: Python/Ruby/Go/Shell
-    percentage: 76
+    percentage: 80
   - name: kubernetes
-    percentage: 67
+    percentage: 70
