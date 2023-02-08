@@ -45,6 +45,8 @@ jobs:
         run: npm install
       - name: Install deployer
         run: npm install hexo-deployer-git save
+      - name: Install theme dependencies
+        run: npm install hexo-renderer-scss hexo-filter-responsive-images imageinfo js-yaml
       - name: Look Dir List
         run: tree -L 3 -a
       # - name: clean theme cache
